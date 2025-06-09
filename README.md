@@ -33,7 +33,7 @@ http://localhost:2500/:machine_alias
 
 Exemplo:
 ```sh
-http://localhost:2500/SERVERTI
+http://localhost:2500/TI
 ```
 Retorno:
 
