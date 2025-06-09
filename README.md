@@ -13,7 +13,7 @@ Abra o terminal e execute:
 npm install
 ```
 ## 🚀 **Configurando o aplicativo**
-- Em **\controllers\dadosController.js** certifique-se de que **basePath** esteja apontado para o diretório de pastas criadas para o agente 
+- Em **\controllers\dadosController.js** certifique-se de que **basePath** esteja apontado para o diretório de pastas criadas para o ([agente](https://github.com/piegosalles10kk/10KKVIEW-AGENTE)) 
 
 ## 🚀 **Rodando o aplicativo**
 - Após instalar as depenências, execute o seguinte comando:
