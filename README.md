@@ -123,7 +123,7 @@ Retorno:
 ### 2️⃣ Rota de pesquisa por todos os **machine_alias** dentro dos registros
 
 ```sh
-http://localhost:2500//dados/maquinas
+http://localhost:2500/dados/maquinas
 ```
 Retorno:
 ```json
