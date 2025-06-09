@@ -7,7 +7,7 @@ Antes de iniciar, certifique-se de que tem o seguinte instalado:
 
 ## ⚙️ **Instalação**
 ### **Instalação do pacote de bibliotecas**
-Abra o terminal e execute:
+Abra o terminal no diretório e execute:
 
 ```sh
 npm install
