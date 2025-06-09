@@ -4,7 +4,7 @@
 Antes de iniciar, certifique-se de que tem o seguinte instalado:
 - **Node 20.19 ou superior** ([Baixar aqui](https://nodejs.org/en/download))
 - **npm** (já incluído no Node)
-- - 10KKVIEW AGENTE ([Baixar aqui](https://github.com/piegosalles10kk/10KKVIEW-AGENTE))
+- 10KKVIEW AGENTE ([Baixar aqui](https://github.com/piegosalles10kk/10KKVIEW-AGENTE))
 
 ## ⚙️ **Instalação**
 ### **Instalação do pacote de bibliotecas**
